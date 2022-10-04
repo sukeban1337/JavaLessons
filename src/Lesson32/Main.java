@@ -1,4 +1,5 @@
-package Lesson30;
+package Lesson32;
 
 public class Main {
+
 }
